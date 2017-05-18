@@ -1,0 +1,8 @@
+{
+    "name": "christianc1/ad-code-manager",
+    "description": "Temporarily maintained fork of automattic/ad-code-manager.",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "require" : {},
+    "require-dev": {}
+}
